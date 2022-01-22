@@ -54,3 +54,13 @@
 Для возврата к крайней версии коммита:
 
 >git checkout master
+
+## Работа с ветками
+Для создания новой ветки 
+>git branch branch_name
+
+Для просмотра всех веток 
+>git branch 
+
+Для перехода к ветке
+>git checkout branch_name
