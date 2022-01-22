@@ -64,3 +64,11 @@
 
 Для перехода к ветке
 >git checkout branch_name
+
+## Удаление веток
+Для удаления ветки:
+>git branch -d branch_name
+
+или, если необходимо удалить ветку не смотря на возможные ошибки
+
+>git branch -D branch_name
