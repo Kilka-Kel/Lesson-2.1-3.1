@@ -116,8 +116,16 @@
 
 Далее в в терминале локального репозитория вводим команды услужлево предложенные GitHab
 
->git remote add origin https://github.com/Kilka-Kel/Lesson-2.1-3.1.git
+>git remote add origin https://github.com/Kilka-Kel/Lesson-2.1.git
+-------------------
+> git branch -M main
 
-> git branch -M main 
+ИЛИ
 
+> git branch -M master
+-----------------
 >git push -u origin main
+
+ИЛИ
+
+> git push -u origin master
